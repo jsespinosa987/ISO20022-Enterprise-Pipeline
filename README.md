@@ -22,13 +22,12 @@ El sistema no se limita al procesamiento backend; inyecta datos procesados en ti
 ### 1. Notificaciones Push en Tiempo Real
 Cada vez que se procesa una transferencia de alto valor o una instrucción prioritaria, el script dispara una alerta a los dispositivos autorizados.
 
-![Notificaciones Móviles](./img/appsheet_mobile_alert.jpg)
+![Notificaciones Móviles](./img/NOTIFICACIONES%20EN%20TIEMPO%20REAL%20APPSHEET.jpg)
 
 ### 2. Dashboard Operativo Web/Móvil
 Visualización del estado de los giros, conciliación de BICs y volúmenes transaccionales dolarizados al instante.
 
-![Dashboard AppSheet](./img/appsheet_dashboard_web.jpg)
-
+![Dashboard AppSheet](./img/DASHBOARD%20APPSHEET.jpg)
 ---
 
 ## 🛠️ Arquitectura del Pipeline
